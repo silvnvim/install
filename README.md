@@ -6,7 +6,7 @@ Use this script to install silvnvim:
 curl -s https://raw.githubusercontent.com/silvnvim/install/main/install.sh | bash
 ```
 
-Usage:
+More examples:
 
 ```
 # Only install the core, without the starter config
